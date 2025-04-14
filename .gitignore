@@ -7,3 +7,5 @@ dist/
 build/
 .DS_Store
 .python-version
+example.py
+hexlet-hello-world/example.py
